@@ -2,8 +2,8 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Iglesias Asociadas ABAR Chile",
   "description": "Base de datos de iglesias bautistas reformadas asociadas a ABAR Chile",
-  "version": "1.0.0",
-  "lastUpdated": "2025-10-27",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-18",
   "churches": [
     {
       "id": 1,
@@ -495,3 +495,4 @@
   ]
 
 }
+

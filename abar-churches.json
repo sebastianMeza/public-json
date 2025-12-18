@@ -296,6 +296,12 @@
           "spouse": "Romina Larrieu Mura",
           "children": 3,
           "photo": null
+        },
+        {
+          "name": "Jurgen Orellana",
+          "spouse": "Yennifer",
+          "children": 3,
+          "photo": null
         }
       ],
       "deacons": [
@@ -365,7 +371,43 @@
     },
     {
       "id": 10,
-      "name": "Plantación Iglesia Bíblica Sublime Gracia (La Calera - Quillota)",
+      "name": "Iglesia Cristiana Bástate mi Gracia",
+      "location": "San Luis, Coltauco. Región de O'Higgins.",
+      "mapUrl": null,
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:15 hrs.",
+        "Culto: Domingo 11:30 hrs.",
+        "Estudio Bíblico y Oración: Miércoles 19:30 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Daniel Videla",
+          "spouse": "Pamela Hernandez",
+          "children": null,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": null,
+          "spouse": null,
+          "children": null,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": null,
+        "instagram": null,
+        "facebook": "https://www.facebook.com/Iglesiacbmg777",
+        "youtube": null,
+        "email": "icbmg777@gmail.com",
+        "other": null
+      }
+    },
+    {
+      "id": 11,
+      "name": "Plantación Iglesia Bíblica Sublime Gracia (La Calera)",
       "location": "Av. Bernardo O'Higgins 850 (Sede La Granja), La Calera. Región de Valparaíso",
       "mapUrl": "https://maps.app.goo.gl/bdkWAQXwsfxeWszZ7",
       "photo": null,
@@ -394,7 +436,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Plantación Obra 1689 La Ligua",
       "location": "C. Peñuelas 1117, La Ligua. Región de Valparaíso",
       "mapUrl": "https://maps.app.goo.gl/CMRysEwBLGujfru47",
@@ -422,7 +464,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Plantación Iglesia Bautista Gracia y Verdad (Melipilla)",
       "location": "Av. las Torres 330, Melipilla. Región Metropolitana",
       "mapUrl": "https://maps.app.goo.gl/mxB8VZwbUZZkvEj6A",
@@ -451,4 +493,5 @@
       }
     }
   ]
+
 }

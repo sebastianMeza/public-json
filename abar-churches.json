@@ -1,0 +1,454 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Iglesias Asociadas ABAR Chile",
+  "description": "Base de datos de iglesias bautistas reformadas asociadas a ABAR Chile",
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-27",
+  "churches": [
+    {
+      "id": 1,
+      "name": "Iglesia Bautista Gracia Soberana",
+      "location": "Cañete 7625, La Granja. Región Metropolitana",
+      "mapUrl": "https://maps.app.goo.gl/GLAB7Upz5aRtGxW66",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:00 hrs.",
+        "Culto: Domingo 11:20 hrs.",
+        "Oración: Miércoles 19:45 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Alex Figueroa",
+          "spouse": "Natalia Gálvez",
+          "children": 4,
+          "photo": null
+        },
+        {
+          "name": "Esteban Gálvez",
+          "spouse": "Karina Beltrand",
+          "children": 6,
+          "photo": null
+        },
+        {
+          "name": "Pablo Navarrete",
+          "spouse": "Daniela Cordovez",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": "Alejandro Arancibia",
+          "spouse": "Katherine Ubeda",
+          "children": 2,
+          "photo": null
+        },
+        {
+          "name": "Juan Tobar",
+          "spouse": "Marisel Jaime",
+          "children": 2,
+          "photo": null
+        },
+        {
+          "name": "Victor Cifuentes",
+          "spouse": "Tracy Tapia",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": "https://www.ibgschile.com/",
+        "instagram": "https://www.instagram.com/graciasoberanacl",
+        "facebook": "https://www.facebook.com/graciasoberana.cl",
+        "youtube": "https://www.youtube.com/@ibgschile",
+        "email": "pastores@graciasoberana.cl",
+        "other": "https://linktr.ee/ibgschile"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Iglesia Bautista Reformada Gracia Redentora",
+      "location": "Calle Uno 151, San Fernando. Región de O'Higgins",
+      "mapUrl": "https://maps.app.goo.gl/zEKsV3C5H5kQmJhh6",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:00 hrs.",
+        "Culto: Domingo 11:30 hrs.",
+        "Grupos Pequeños (miércoles, jueves, viernes)."
+      ],
+      "pastors": [
+        {
+          "name": "Juan Jara",
+          "spouse": "Ivonne Retamal",
+          "children": 5,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": "Juan Carlos Basoalto",
+          "spouse": "Cecilia González",
+          "children": 2,
+          "photo": null
+        },
+        {
+          "name": "Juan Manuel Basoalto",
+          "spouse": "Sol López",
+          "children": 2,
+          "photo": null
+        },
+        {
+          "name": "Daniel González",
+          "spouse": "Sofía Sabando",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": "https://graciaredentora.cl/",
+        "instagram": "https://www.instagram.com/graciaredentora.cl/",
+        "facebook": "https://www.facebook.com/IBGRACIAREDENTORA",
+        "youtube": "https://www.youtube.com/IglesiaBautistaGraciaRedentora",
+        "email": "ibgrchile@gmail.com",
+        "other": null
+      }
+    },
+    {
+      "id": 3,
+      "name": "Iglesia Reformada Gracia Soberana",
+      "location": "Arturo Perez Canto 8, Lota. Region de Bio Bio.",
+      "mapUrl": "https://maps.app.goo.gl/9CRkdrL3W6LgG8Bu8",
+      "photo": null,
+      "schedules": [
+        "Culto: Domingo 10:30 hrs.",
+        "Oración: Viernes 19:30 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Hugo Ruiz",
+          "spouse": "Claudia Ramírez",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": "Andrés Rivera",
+          "spouse": "Marisela Parra",
+          "children": 1,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": "https://irgs.cl/",
+        "instagram": "https://www.instagram.com/iglesiareformadagraciasoberana/",
+        "facebook": "https://www.facebook.com/iglesia.reformada.gracia.soberana",
+        "youtube": "https://www.youtube.com/@IglesiaReformadaGraciaSoberana",
+        "email": "iglesiareformadagraciasoberana@gmail.com",
+        "other": null
+      }
+    },
+    {
+      "id": 4,
+      "name": "Iglesia de la Gracia",
+      "location": "Av. Cruz del Molino 386 (Colegio Amazing Grace), La Serena. Región de Coquimbo.",
+      "mapUrl": "https://maps.app.goo.gl/bkifF6fxjmFtc18J8",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:00 hrs.",
+        "Culto: Domingo 11:45 hrs.",
+        "Oración: Miércoles 20:30 hrs.",
+        "Discipulado: Viernes 19:00 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Franco Gajardo",
+          "spouse": "Paz Astorga",
+          "children": 2,
+          "photo": null
+        }
+      ],
+      "deacons": [],
+      "social": {
+        "website": null,
+        "instagram": "https://www.instagram.com/iglesia.delagracia",
+        "facebook": "https://www.facebook.com/iglesiadelagraciaa",
+        "youtube": "https://www.youtube.com/@iglesiadelagraciachile",
+        "email": "iglesia.delagracia@gmail.com",
+        "other": null
+      }
+    },
+    {
+      "id": 5,
+      "name": "Iglesia Bautista Reformada Sólo por Gracia",
+      "location": "Las Brisas 9, Quillón. Región de Ñuble",
+      "mapUrl": "https://maps.app.goo.gl/CRtFVBdSf3aTcg6r8",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 11:00 hrs.",
+        "Culto: Domingo 12:20 hrs.",
+        "Estudio Bíblico: Jueves 20:00 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Daniel Astudillo",
+          "spouse": "Suyai Gonzalez",
+          "children": 5,
+          "photo": null
+        }
+      ],
+      "deacons": [],
+      "social": {
+        "website": null,
+        "instagram": "https://www.instagram.com/ibrquillon/",
+        "facebook": "https://www.facebook.com/ibrquillon/",
+        "youtube": "www.youtube.com/@Ibrquillon",
+        "email": null,
+        "other": null
+      }
+    },
+    {
+      "id": 6,
+      "name": "Iglesia Bautista Reformada San Carlos",
+      "location": "El peral poniente, parcela 6, sitio E, San Carlos. Región de Ñuble.",
+      "mapUrl": "https://maps.app.goo.gl/7xxJw83DR3Fsp9RT8",
+      "photo": null,
+      "schedules": [
+        "Oración: Domingo 10:00 hrs.",
+        "Estudio Bíblico: Domingo 10:30 hrs.",
+        "Culto: Domingo 11:50 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Gabriel Barahona",
+          "spouse": "Maria Victoria Caro",
+          "children": 7,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": "Paulo Olivares",
+          "spouse": "Evelyn Dennett",
+          "children": 2,
+          "photo": null
+        },
+        {
+          "name": "Ismael Cartes",
+          "spouse": "Maria José Olea",
+          "children": 0,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": null,
+        "instagram": "https://www.instagram.com/ibrsancarlos/",
+        "facebook": "https://www.facebook.com/ibrsancarlos",
+        "youtube": "https://www.youtube.com/@ibrsancarlos",
+        "email": "ibrsancarlos@gmail.com",
+        "other": null
+      }
+    },
+    {
+      "id": 7,
+      "name": "Iglesia Bautista Bendita Gracia",
+      "location": "Las Maravillas 327, Viña del Mar. Región de Valparaiso.",
+      "mapUrl": "https://maps.app.goo.gl/mKuXYdkteXFXfmFNA",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:00 hrs.",
+        "Culto: Domingo 11:30 hrs.",
+        "Oración: Martes 20:00 hrs.",
+        "Estudio Bíblico: Viernes 19:30 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Daniel Valladares",
+          "spouse": "Ester Riquelme",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "deacons": [],
+      "social": {
+        "website": null,
+        "instagram": "https://www.instagram.com/ibbg.vinadelmar/",
+        "facebook": "https://www.facebook.com/IglesiaBautistaBenditaGracia",
+        "youtube": "https://www.youtube.com/@iglesiabautistabenditagracia",
+        "email": "iglesiabenditagraciavalpo@gmail.com",
+        "other": null
+      }
+    },
+    {
+      "id": 8,
+      "name": "Iglesia Bautista Gracia y Verdad",
+      "location": "Av. Los Silos 1608, Padre Hurtado. Región Metropolitana",
+      "mapUrl": "https://maps.app.goo.gl/G2hfkFaStaFcYspz9",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:00 hrs.",
+        "Culto: Domingo 11:30 hrs.",
+        "Oración: Jueves 20:00 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Ricardo Jara",
+          "spouse": "Romina Larrieu Mura",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": "Claudio Arancibia",
+          "spouse": "Noemí Burgos",
+          "children": 5,
+          "photo": null
+        },
+        {
+          "name": "Roberto Centella",
+          "spouse": "Ana Contreras",
+          "children": 3,
+          "photo": null
+        },
+        {
+          "name": "Luis Flores",
+          "spouse": "Angélica Osorio",
+          "children": 1,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": "https://ibgvchile.cl/",
+        "instagram": "https://www.instagram.com/ibgv_padre_hurtado/",
+        "facebook": null,
+        "youtube": "https://www.youtube.com/@Ibgvchile",
+        "email": "contacto@ibgvchile.cl",
+        "other": null
+      }
+    },
+    {
+      "id": 9,
+      "name": "Iglesia Bautista Sublime Gracia",
+      "location": "Lago del Toro 461, Valdivia. Región de Los Ríos.",
+      "mapUrl": "https://maps.app.goo.gl/BMfmG3PBxwWA8bAQ6",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 10:15 hrs.",
+        "Culto: Domingo 11:30 hrs.",
+        "Estudio Bíblico y Oración: Miércoles 19:30 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Pablo Peralta",
+          "spouse": "Mignol Saavedra Bórquez",
+          "children": 3,
+          "photo": null
+        }
+      ],
+      "deacons": [
+        {
+          "name": "Gerson Parra",
+          "spouse": "Priscila Rivera",
+          "children": 4,
+          "photo": null
+        }
+      ],
+      "social": {
+        "website": "No tiene",
+        "instagram": "https://www.instagram.com/ibsg.valdivia/",
+        "facebook": "https://www.facebook.com/ibsg.valdivia",
+        "youtube": "https://www.youtube.com/@IBSublimegracia1689",
+        "email": "contacto.ibsgvaldivia@gmail.com",
+        "other": "linktr.ee/ibsg.valdivia"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Plantación Iglesia Bíblica Sublime Gracia (La Calera - Quillota)",
+      "location": "Av. Bernardo O'Higgins 850 (Sede La Granja), La Calera. Región de Valparaíso",
+      "mapUrl": "https://maps.app.goo.gl/bdkWAQXwsfxeWszZ7",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 16:00 hrs.",
+        "Culto: Domingo 17:00 hrs.",
+        "Once con Biblia: Martes 19:00 hrs.",
+        "Oración: Jueves 19:00 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Pastores IBGS (Santiago) e IBBG (Viña del Mar)",
+          "spouse": null,
+          "children": 0,
+          "photo": null
+        }
+      ],
+      "deacons": [],
+      "social": {
+        "website": null,
+        "instagram": "https://www.instagram.com/sublimegraciacl",
+        "facebook": "https://www.facebook.com/profile.php?id=61571960368590",
+        "youtube": "https://youtube.com/@iglesiabrsg",
+        "email": "pastores@graciasoberana.cl",
+        "other": null
+      }
+    },
+    {
+      "id": 11,
+      "name": "Plantación Obra 1689 La Ligua",
+      "location": "C. Peñuelas 1117, La Ligua. Región de Valparaíso",
+      "mapUrl": "https://maps.app.goo.gl/CMRysEwBLGujfru47",
+      "photo": null,
+      "schedules": [
+        "Estudio Bíblico: Domingo 16:00 hrs.",
+        "Culto: Domingo 17:00 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Pastores IBGS (Santiago) e IBBG (Viña del Mar)",
+          "spouse": null,
+          "children": 0,
+          "photo": null
+        }
+      ],
+      "deacons": [],
+      "social": {
+        "website": null,
+        "instagram": null,
+        "facebook": null,
+        "youtube": null,
+        "email": "pastores@graciasoberana.cl",
+        "other": null
+      }
+    },
+    {
+      "id": 12,
+      "name": "Plantación Iglesia Bautista Gracia y Verdad (Melipilla)",
+      "location": "Av. las Torres 330, Melipilla. Región Metropolitana",
+      "mapUrl": "https://maps.app.goo.gl/mxB8VZwbUZZkvEj6A",
+      "photo": null,
+      "schedules": [
+        "Estudio bíblico: Domingo 10:00 hrs.",
+        "Culto: Domingo 11:30 hrs.",
+        "Oración: Jueves 20:00 hrs."
+      ],
+      "pastors": [
+        {
+          "name": "Pastor IBGV (Padre Hurtado)",
+          "spouse": null,
+          "children": 0,
+          "photo": null
+        }
+      ],
+      "deacons": [],
+      "social": {
+        "website": null,
+        "instagram": "https://www.instagram.com/ibgvmelipilla",
+        "facebook": null,
+        "youtube": null,
+        "email": "contacto@ibgvchile.cl",
+        "other": null
+      }
+    }
+  ]
+}

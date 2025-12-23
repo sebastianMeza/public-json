@@ -2,8 +2,8 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Iglesias Asociadas ABAR Chile",
   "description": "Base de datos de iglesias bautistas reformadas asociadas a ABAR Chile",
-  "version": "1.0.1",
-  "lastUpdated": "2025-12-18",
+  "version": "1.0.2",
+  "lastUpdated": "2025-12-23",
   "churches": [
     {
       "id": 1,
@@ -372,13 +372,13 @@
     {
       "id": 10,
       "name": "Iglesia Cristiana Bástate mi Gracia",
-      "location": "San Luis, Coltauco. Región de O'Higgins.",
+      "location": "Sede de la Villa Casas de Campo, San Luis, Coltauco. Región de O'Higgins.",
       "mapUrl": null,
       "photo": null,
       "schedules": [
-        "Estudio Bíblico: Domingo 10:15 hrs.",
-        "Culto: Domingo 11:30 hrs.",
-        "Estudio Bíblico y Oración: Miércoles 19:30 hrs."
+        "Estudio Bíblico: Domingo 15 hrs.",
+        "Culto: Domingo 16 hrs.",
+        "Oración: Miércoles 19 hrs. (Coltauco) y Viernes 20 hrs. (Rancagua)."
       ],
       "pastors": [
         {
@@ -400,7 +400,7 @@
         "website": null,
         "instagram": null,
         "facebook": "https://www.facebook.com/Iglesiacbmg777",
-        "youtube": null,
+        "youtube": "https://www.youtube.com/@icbgbc1689",
         "email": "icbmg777@gmail.com",
         "other": null
       }
@@ -495,4 +495,5 @@
   ]
 
 }
+
 

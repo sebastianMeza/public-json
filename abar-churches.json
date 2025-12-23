@@ -373,7 +373,7 @@
       "id": 10,
       "name": "Iglesia Cristiana Bástate mi Gracia",
       "location": "Sede de la Villa Casas de Campo, San Luis, Coltauco. Región de O'Higgins.",
-      "mapUrl": null,
+      "mapUrl": "https://maps.app.goo.gl/PU8JZhRwqJ1u1smT6",
       "photo": null,
       "schedules": [
         "Estudio Bíblico: Domingo 15 hrs.",
@@ -495,5 +495,6 @@
   ]
 
 }
+
 
 
